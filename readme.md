@@ -1,7 +1,8 @@
+# Fluentbit demo
 ### **Tutorial Outline: Setting Up a Log Processing Pipeline with Nginx and Fluent Bit**
 
 This tutorial provides a step-by-step guide to setting up **Nginx as a file server** and **Fluent Bit for log processing**. The pipeline captures and parses Nginx access logs into structured JSON format.
-
+https://github.com/wasit7/fluentbit_demo
 ---
 
 ## **1. Prerequisites**
